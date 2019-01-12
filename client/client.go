@@ -7,9 +7,9 @@ import (
 	"io"
 	"io/ioutil"
 
-	"github.com/flynn/go-tuf/data"
-	"github.com/flynn/go-tuf/util"
-	"github.com/flynn/go-tuf/verify"
+	"github.com/drycc/go-tuf/data"
+	"github.com/drycc/go-tuf/util"
+	"github.com/drycc/go-tuf/verify"
 )
 
 // LocalStore is local storage for downloaded top-level metadata.

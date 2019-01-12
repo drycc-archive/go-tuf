@@ -6,8 +6,8 @@ import (
 	"text/tabwriter"
 
 	"github.com/dustin/go-humanize"
-	"github.com/flynn/go-docopt"
-	tuf "github.com/flynn/go-tuf/client"
+	"github.com/drycc/go-docopt"
+	tuf "github.com/drycc/go-tuf/client"
 )
 
 func init() {

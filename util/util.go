@@ -12,7 +12,7 @@ import (
 	"io/ioutil"
 	"path"
 
-	"github.com/flynn/go-tuf/data"
+	"github.com/drycc/go-tuf/data"
 )
 
 var ErrWrongLength = errors.New("wrong length")

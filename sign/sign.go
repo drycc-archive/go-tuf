@@ -4,7 +4,7 @@ import (
 	"crypto"
 	"crypto/rand"
 
-	"github.com/flynn/go-tuf/data"
+	"github.com/drycc/go-tuf/data"
 	"github.com/tent/canonical-json-go"
 )
 

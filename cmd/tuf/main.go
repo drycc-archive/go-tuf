@@ -12,9 +12,9 @@ import (
 	"time"
 
 	"github.com/docker/docker/pkg/term"
-	"github.com/flynn/go-docopt"
-	"github.com/flynn/go-tuf"
-	"github.com/flynn/go-tuf/util"
+	"github.com/drycc/go-docopt"
+	"github.com/drycc/go-tuf"
+	"github.com/drycc/go-tuf/util"
 )
 
 func main() {

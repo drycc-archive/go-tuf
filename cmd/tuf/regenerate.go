@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/flynn/go-docopt"
-	"github.com/flynn/go-tuf"
+	"github.com/drycc/go-docopt"
+	"github.com/drycc/go-tuf"
 )
 
 func init() {

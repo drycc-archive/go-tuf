@@ -5,9 +5,9 @@ import (
 	"io"
 	"os"
 
-	"github.com/flynn/go-docopt"
-	tuf "github.com/flynn/go-tuf/client"
-	"github.com/flynn/go-tuf/data"
+	"github.com/drycc/go-docopt"
+	tuf "github.com/drycc/go-tuf/client"
+	"github.com/drycc/go-tuf/data"
 )
 
 func init() {

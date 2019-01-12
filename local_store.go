@@ -9,10 +9,10 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/flynn/go-tuf/data"
-	"github.com/flynn/go-tuf/encrypted"
-	"github.com/flynn/go-tuf/sign"
-	"github.com/flynn/go-tuf/util"
+	"github.com/drycc/go-tuf/data"
+	"github.com/drycc/go-tuf/encrypted"
+	"github.com/drycc/go-tuf/sign"
+	"github.com/drycc/go-tuf/util"
 )
 
 func MemoryStore(meta map[string]json.RawMessage, files map[string][]byte) LocalStore {

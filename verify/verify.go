@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/flynn/go-tuf/data"
+	"github.com/drycc/go-tuf/data"
 	"github.com/tent/canonical-json-go"
 )
 

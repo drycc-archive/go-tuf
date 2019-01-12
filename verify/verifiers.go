@@ -7,7 +7,7 @@ import (
 	"encoding/asn1"
 	"math/big"
 
-	"github.com/flynn/go-tuf/data"
+	"github.com/drycc/go-tuf/data"
 	"golang.org/x/crypto/ed25519"
 )
 

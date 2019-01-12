@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/flynn/go-docopt"
-	tuf "github.com/flynn/go-tuf/client"
+	"github.com/drycc/go-docopt"
+	tuf "github.com/drycc/go-tuf/client"
 )
 
 func main() {
